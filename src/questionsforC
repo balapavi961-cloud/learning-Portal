@@ -1,0 +1,34 @@
+1. Who created the C programming language?
+
+A. James Gosling
+B. Dennis Ritchie
+C. Bjarne Stroustrup
+D. Guido van Rossum
+
+2. Why is learning C helpful for learning other languages?
+
+A. C has no syntax
+B. C syntax is similar to many other languages
+C. C is only used for web development
+D. C is newer than Java and Python
+
+3. What is the main difference between C and C++?
+
+A. C++ supports classes and objects, but C does not
+B. C is object-oriented, C++ is not
+C. C++ is older than C
+D. C does not support functions
+
+4. Why is C considered a fast programming language?
+
+A. It uses built-in internet libraries
+B. It allows direct memory access and low-level operations
+C. It has automatic garbage collection
+D. It runs only on UNIX
+
+5. What does #include <stdio.h> do in a C program?
+
+A. It starts the main function
+B. It imports standard input/output library functions like printf
+C. It prints text on the screen automatically
+D. It ends the program

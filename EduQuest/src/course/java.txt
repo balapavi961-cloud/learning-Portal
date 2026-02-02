@@ -1,0 +1,28 @@
+JAVA BASICS - STUDY MATERIAL
+
+1. INTRODUCTION TO JAVA
+Java is a high-level, object-oriented programming language.
+It is platform-independent because of the JVM.
+
+2. CLASSES AND OBJECTS
+A class is a blueprint for creating objects.
+An object is an instance of a class.
+
+3. ENCAPSULATION
+Encapsulation is the process of wrapping data and methods into a single unit.
+It is achieved using private variables and public getter and setter methods.
+
+4. INHERITANCE
+Inheritance allows one class to acquire the properties of another.
+It is implemented using the "extends" keyword.
+
+5. POLYMORPHISM
+Polymorphism allows methods to perform different actions based on the object.
+It can be achieved using method overloading and overriding.
+
+6. EXCEPTION HANDLING
+Java uses try, catch, and finally blocks to handle runtime errors.
+
+7. COLLECTIONS FRAMEWORK
+Java provides ArrayList, HashMap, HashSet, and other data structures
+to store and manage data efficiently.

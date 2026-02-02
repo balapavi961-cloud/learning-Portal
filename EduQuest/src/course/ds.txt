@@ -1,0 +1,28 @@
+DATA STRUCTURES - STUDY MATERIAL
+
+1. INTRODUCTION
+Data structures help in organizing data efficiently.
+
+2. ARRAYS
+Arrays store elements in continuous memory locations.
+They provide fast access using index values.
+
+3. LINKED LIST
+Linked lists store data in nodes connected using pointers.
+They allow dynamic memory allocation.
+
+4. STACK
+Stack follows Last In First Out (LIFO) principle.
+Operations: push, pop, peek.
+
+5. QUEUE
+Queue follows First In First Out (FIFO) principle.
+Operations: enqueue, dequeue.
+
+6. TREES
+Trees represent hierarchical data.
+Example: Binary Tree, Binary Search Tree.
+
+7. GRAPH
+Graphs consist of vertices and edges.
+Used in networking, maps, and social media applications.

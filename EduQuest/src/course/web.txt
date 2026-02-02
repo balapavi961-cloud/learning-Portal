@@ -1,0 +1,25 @@
+WEB DEVELOPMENT - STUDY MATERIAL
+
+1. HTML
+HTML is used to structure web pages.
+It uses tags like <html>, <body>, <div>, <p>.
+
+2. CSS
+CSS is used to style web pages.
+It controls layout, colors, fonts, and animations.
+
+3. JAVASCRIPT
+JavaScript makes web pages interactive.
+It is used for form validation, animations, and dynamic content.
+
+4. REACT
+React is a JavaScript library for building UI components.
+It uses component-based architecture.
+
+5. BACKEND
+Backend handles server-side logic.
+Examples: Node.js, Java, Python.
+
+6. DATABASE
+Databases store application data.
+Examples: MySQL, MongoDB, PostgreSQL.

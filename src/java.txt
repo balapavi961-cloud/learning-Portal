@@ -1,27 +1,28 @@
-What is Java?
+JAVA BASICS - STUDY MATERIAL
 
-Java is a popular and powerful programming language, created in 1995.
+1. INTRODUCTION TO JAVA
+Java is a high-level, object-oriented programming language.
+It is platform-independent because of the JVM.
 
-It is owned by Oracle, and more than 3 billion devices run Java.
+2. CLASSES AND OBJECTS
+A class is a blueprint for creating objects.
+An object is an instance of a class.
 
-It is used for:
+3. ENCAPSULATION
+Encapsulation is the process of wrapping data and methods into a single unit.
+It is achieved using private variables and public getter and setter methods.
 
--->Mobile applications (specially Android apps)
--->Desktop applications
--->Web applications
--->Web servers and application servers
--->Games
--->Database connection
-And much, much more!
+4. INHERITANCE
+Inheritance allows one class to acquire the properties of another.
+It is implemented using the "extends" keyword.
 
-Why Use Java?
+5. POLYMORPHISM
+Polymorphism allows methods to perform different actions based on the object.
+It can be achieved using method overloading and overriding.
 
-   Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
-   It is one of the most popular programming languages in the world
-   It has a large demand in the current job market
-   It is easy to learn and simple to use
-   It is open-source and free
-   It is secure, fast and powerful
-   It has huge community support (tens of millions of developers)
-   Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
-   As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+6. EXCEPTION HANDLING
+Java uses try, catch, and finally blocks to handle runtime errors.
+
+7. COLLECTIONS FRAMEWORK
+Java provides ArrayList, HashMap, HashSet, and other data structures
+to store and manage data efficiently.
